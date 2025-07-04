@@ -1,8 +1,22 @@
-# React + Vite
+# Employee Management System
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A fully functional Employee Management System built with **React.js**. This application allows users to add, update, delete, and view employee records in an intuitive and responsive UI.
 
-Currently, two official plugins are available:
+## 🚀 Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- 🧑 Add new employee records
+- 📝 Edit/update employee details
+- ❌ Delete employee entries
+- 🔍 View a list of all employees
+- ✅ Responsive and clean user interface
+- ⚛️ Built using React functional components and hooks
+
+## 🛠️ Technologies Used
+
+- **React.js** (Create React App)
+- **HTML5** & **CSS3**
+- **JavaScript (ES6+)**
+- **Bootstrap** or custom styling (based on your project)
+- (Optional) JSON-server or mock backend (if used)
+
+
