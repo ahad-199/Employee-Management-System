@@ -1,15 +1,17 @@
 # Employee Management System
 
-A fully functional Employee Management System built with **React.js**. This application allows users to add, update, delete, and view employee records in an intuitive and responsive UI.
+A full-featured Employee Management System built with **React.js**. This application allows admins to manage employees and assign them tasks with an easy-to-use interface.
 
 ## 🚀 Features
 
-- 🧑 Add new employee records
-- 📝 Edit/update employee details
-- ❌ Delete employee entries
-- 🔍 View a list of all employees
-- ✅ Responsive and clean user interface
+- 👤 Add, edit, and delete employee records
+- ✅ View a list of all employees
+- 📋 Assign tasks to employees
+- 🔄 Track and update task status
+- 📈 Organized and searchable employee list
+- 🖥️ Responsive and modern UI
 - ⚛️ Built using React functional components and hooks
+
 
 ## 📸 Screenshots
 
@@ -29,7 +31,7 @@ A fully functional Employee Management System built with **React.js**. This appl
 - **React.js** (Create React App)
 - **HTML5** & **CSS3**
 - **JavaScript (ES6+)**
-- **Bootstrap** or custom styling (based on your project)
-- (Optional) JSON-server or mock backend (if used)
+- **Bootstrap**
+- Local Storage
 
 
