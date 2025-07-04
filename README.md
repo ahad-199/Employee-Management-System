@@ -11,9 +11,17 @@ A fully functional Employee Management System built with **React.js**. This appl
 - ✅ Responsive and clean user interface
 - ⚛️ Built using React functional components and hooks
 
-  ## 📸 Preview
+## 📸 Screenshots
 
-![Netflix Clone Screenshot](img/Login_Page.PNG)(img/Employee_Dashboard.PNG)(img/Admin_Dashboard.PNG) <!-- Replace with a suitable screenshot path -->
+### Login Page
+![Login Page](img/Login_Page.PNG)
+
+### Employee Dashboard
+![Employee Dashboard](img/Employee_Dashboard.PNG)
+
+### Admin Dashboard
+![Admin Dashboard](./screenshots/edit-employee.png)
+
 
 
 ## 🛠️ Technologies Used
