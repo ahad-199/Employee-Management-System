@@ -13,7 +13,7 @@ A fully functional Employee Management System built with **React.js**. This appl
 
   ## 📸 Preview
 
-![Netflix Clone Screenshot](img/Capture.PNG) <!-- Replace with a suitable screenshot path -->
+![Netflix Clone Screenshot](img/Login_Page.PNG,img/Employee_Dashboard.PNG,img/Admin_Dashboard.PNG) <!-- Replace with a suitable screenshot path -->
 
 
 ## 🛠️ Technologies Used
