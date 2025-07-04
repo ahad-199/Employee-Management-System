@@ -20,7 +20,7 @@ A fully functional Employee Management System built with **React.js**. This appl
 ![Employee Dashboard](img/Employee_Dashboard.PNG)
 
 ### Admin Dashboard
-![Admin Dashboard](./screenshots/edit-employee.png)
+![Admin Dashboard](img/Admin_Dashboard.PNG)
 
 
 
